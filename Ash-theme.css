@@ -1,0 +1,87 @@
+#app-mount .app-2rEoOp { background-image: url(https://static.alphacoders.com/desktops/21554.jpg); background-size: cover; } 
+
+/* BetterPopout --> Delete all until "Others settings" if u don't want it */
+.note-3HfJZ5, .bodyTitle-Y0qMQz:nth-last-child(2), .footer-1fjuF6 { display: none; }
+.body-3iLsc4 { padding: 0;}
+.bodyTitle-Y0qMQz:nth-child(1) { padding: 15px 0 5px 10px; margin: 0;}
+.rolesList-22qj2L { margin: 10px;}
+.img.avatar-1BDn8e.clickable-1bVtEA {display: none;}
+
+ /* Set all usernames to white */
+.username-1A8OIy { 
+    color: var(--user-color) !important; 
+}
+
+/* group chat name colors */
+.container-2Pjhx- { 
+    color: var(--gcuser-color); 
+} 
+
+/* normal text color */
+.markup-2BOw-j { 
+    color: var(--text-normal) !important; 
+}
+
+/* unread channel color */
+.unread-2lAfLh {
+     background-color: var(--text-channel-blip); 
+    } 
+
+.modeUnread-1qO3K1 .name-23GUGE { 
+    color: var(--text-channel-unread) !important;
+}
+
+/* text channel color*/
+.name-23GUGE {
+    color: var(--text-channel) !important; 
+}
+
+/* Profile pictures width and height in chat */
+.wrapper-3t9DeA.da-wrapper { 
+    width: 0px !important; height: 0px !important; 
+}
+
+/* dm list padding */ 
+.layout-2DM8Md {
+     padding: 0 0px !important; 
+}
+
+/* Send attachment button */
+.attachButtonPlus-jWVFah { 
+    fill: transparent; 
+}
+
+.attachButton-2WznTc:hover .attachButtonPlus-jWVFah { fill: transparent; }
+
+.attachButton-2WznTc { height: 44px; padding: 0px 0px; top: 0; }
+
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 { color: rgb(218, 218, 218); background-color: transparent;}
+
+.avatar-3uk_u9 { width: 0px;}
+
+.message-2qnXI6 { padding-right: 0px !important; } /* terrible feature */
+
+.wrapper-sa6paO { position: relative; overflow: hidden; width: 0px; height: 0px; } /* Hide server new message */
+
+.peopleList-3c4jOR,
+
+.scroller-9moviB { background-color: transparent; border-bottom-color: transparent; }
+
+.scroller-3BxosC {
+    padding: 6px 8px;
+    background-color: rgb(0, 0, 0, 0.65);
+}
+
+.scroller-1Bvpku {
+    padding: 12px 0 0;
+    background-color: rgba(0, 0, 0, 0);
+    contain: layout size;
+}
+.theme-dark .container-1D34oG{
+    background-color: transparent;
+}
+
+
+/*.avatar-1BDn8e { width: 24px; height: 24px; } /* Avatar size */
+/*.cozy-3raOZG .messageContent-2qWWxC { padding-left: -40px;} /* Assign chat text to the left */
+/*.cozy-3raOZG.wrapper-2a6GCs { padding-left: 49px; } */
